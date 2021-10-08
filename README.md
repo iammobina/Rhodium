@@ -20,7 +20,7 @@ According to your measurement of the cell's power output, these colors are selec
 The project is written in Java(Android).
 
 ## Images
-<img src="Rhodium.jpg"></img> 
+<img src="Rhodium.jpg" width="250" height="400"></img> 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
